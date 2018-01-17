@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-3528 4021 1380 0.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #002c58;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#002c58" stop-opacity="0"/>
+      <stop offset="1" stop-color="#002c58"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2736" data-name="Group 2736" transform="translate(-3558)">
+    <path id="H_background" data-name="H background" class="cls-1" d="M0,0H.5V780H0Z" transform="translate(330 4021.5) rotate(-90)"/>
+    <path id="H_background-2" data-name="H background" class="cls-2" d="M0,0H.5V300H0Z" transform="translate(1410 4021) rotate(90)"/>
+    <path id="H_background-3" data-name="H background" class="cls-2" d="M0,0H.5V300H0Z" transform="translate(30 4021.5) rotate(-90)"/>
+  </g>
+</svg>

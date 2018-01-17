@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-2567.881 954.934 419.761 69.329">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        opacity: 0.4;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#002c58" stop-opacity="0"/>
+      <stop offset="0.818" stop-color="#002c58"/>
+      <stop offset="1" stop-color="#002c58" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#002c58" stop-opacity="0"/>
+      <stop offset="0.488" stop-color="#002c58"/>
+      <stop offset="1" stop-color="#002c58" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2738" data-name="Group 2738" transform="translate(-3558)">
+    <rect id="Rectangle_4822" data-name="Rectangle 4822" class="cls-1" width="0.5" height="266" transform="translate(1341.137 954.934) rotate(75)"/>
+    <rect id="Rectangle_4826" data-name="Rectangle 4826" class="cls-2" width="0.5" height="420" transform="matrix(-0.035, -0.999, 0.999, -0.035, 990.137, 1009.079)"/>
+  </g>
+</svg>

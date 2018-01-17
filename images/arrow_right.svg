@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1530.5 365.5 27 47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        filter: url(#Path_3234);
+      }
+    </style>
+    <filter id="Path_3234" x="1530.5" y="365.5" width="27" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dx="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2346" data-name="Group 2346" transform="translate(1444.367 8200.157) rotate(180)">
+    <g id="bc387636c7ca3b5952b8063fd226ba2e" transform="translate(164.367 7781.257) rotate(90)">
+      <g class="cls-2" transform="matrix(0, 1, -1, 0, 418.9, -1280)">
+        <path id="Path_3234-2" data-name="Path 3234" class="cls-1" d="M48.9,255a.9.9,0,0,0-.7.3L29.9,272.6,11.6,255.3a.911.911,0,0,0-.7-.3.945.945,0,0,0-1,1,.907.907,0,0,0,.3.7l19,18a.971.971,0,0,0,1.4,0l19-18a.911.911,0,0,0,.3-.7A.939.939,0,0,0,48.9,255Z" transform="translate(1280 418.9) rotate(-90)"/>
+      </g>
+    </g>
+  </g>
+</svg>
